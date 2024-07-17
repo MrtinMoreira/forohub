@@ -148,8 +148,6 @@ Body:
 }
 
 ```
-## Contribuciones ⌨️
-Las contribuciones son bienvenidas. Por favor, abre un issue para discutir el cambio que deseas realizar. Siéntete libre de hacer un fork del proyecto y enviar un pull request.
 
 ## Licencia 🚀
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
